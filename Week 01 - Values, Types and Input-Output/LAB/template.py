@@ -11,6 +11,7 @@ Run it:   python template.py
 Work through the numbered sections in order. Each one tells you what it must do.
 Delete these instructions as you replace them with your code.
 """
+"""this program creates a display of a record"""
 # ================================================================== INPUT
 label = input("Please enter data set name: ")
 first = float(input("Please enter rows loaded: "))
