@@ -11,6 +11,7 @@ Run it:   python template.py
 Work through the numbered sections in order. Each one tells you what it must do.
 Delete these instructions as you replace them with your code.
 """
+"""this program creates a display of multiple records and outputs number of over limits"""
 OverLimitCount = 0
 while True : 
 # ==================================================================== INPUT
